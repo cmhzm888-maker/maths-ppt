@@ -1,0 +1,6 @@
+{
+  "name": "分数小魔法 (Fractions Explorer)",
+  "description": "一个互动的分数可视化教学工具，帮助孩子理解集合分数（如12个图形的3/4）的概念。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
